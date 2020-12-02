@@ -1,0 +1,18 @@
+input: read open 'inputs/99.txt'
+ns: map int, input.rstrip.split \n
+
+@import
+  math:
+  it: 'itertools'
+
+findSumMul: ps ->
+  if (math.sum ps.0)==2020 then
+    print math.prod ps.0
+  else
+    findSumMul ps 1..
+
+# part1
+findSumMul it.combinations ns, 2
+
+# part2
+findSumMul it.combinations ns, 3
