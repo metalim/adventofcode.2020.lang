@@ -1,4 +1,4 @@
-input: read open 'inputs/99.txt'
+input: read open 'inputs/01.txt'
 ns: map int, input.rstrip.split \n
 
 @import
