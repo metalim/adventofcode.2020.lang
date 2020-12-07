@@ -1,11 +1,9 @@
 input: read open 'inputs/99.txt'
 ns: map int, input.rstrip.split \n
 
-part1: in ->
+part1: ns ->
+
+part2: ns ->
 
 ns.part1
-
-part2: ->
-
 ns.part2
-

@@ -1,11 +1,11 @@
-# Advent of Code 2020 in Lang
+# Advent of Code 2020 in Läng
 
-This year I'll be using AoC to show Lang. ✌😎
+This year I'll be using AoC to show Läng. ✌😎
 
 ## All years AoC solutions
 
 * 2020:
-  * [Lang](https://github.com/metalim/metalim.adventofcode.2020.lang), ✌😎
+  * [Läng](https://github.com/metalim/metalim.adventofcode.2020.lang), ✌😎
 * 2019:
   * [Python in Jupyter Notebook](https://github.com/metalim/metalim.adventofcode.2019.python). Love this one, as it shows pretty results on GitHub.
 * 2018
